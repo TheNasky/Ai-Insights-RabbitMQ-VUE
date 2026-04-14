@@ -28,26 +28,14 @@
 
 ### Demo video
 
-The release page is here: **[Release `Videos` (v1)](https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/tag/Videos)**.
-
-For the README player, GitHub needs the **direct asset URL** (not the `/releases/tag/...` page). Yours is:
-
-`https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4`
-
 <p align="center">
-  <a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4"><strong>Download / open walkthrough (MP4)</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/tag/Videos"><strong>Release page</strong></a>
+  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c" title="AI Insights Platform — walkthrough">
+    <img src="https://img.youtube.com/vi/eQfiD-oX41c/hqdefault.jpg" alt="Watch the walkthrough on YouTube" width="720" />
+  </a>
 </p>
 
 <p align="center">
-  <video src="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4" controls width="920" poster="Showcase.png">
-    Your browser does not support the video tag — use the MP4 link above.
-  </video>
-</p>
-
-<p align="center">
-  <sub>If you replace the video on that release, keep the filename or update this README so the <code>src</code> matches the new asset name.</sub>
+  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c"><strong>Watch on YouTube</strong></a>
 </p>
 
 ---
@@ -158,8 +146,7 @@ CORS uses `FRONTEND_ORIGIN`. Full contract: [`backend/README.md`](backend/README
 
 ```text
 Agentic/
-├── Showcase.png           # UI screenshot (see Preview)
-├── Video Showcase.mp4     # Walkthrough video (see Preview)
+├── Showcase.png           # UI screenshot (see Preview); walkthrough is on YouTube (below)
 ├── backend/               # NestJS API, LLM, queue, workers, in-memory job store
 ├── frontend/              # Vue SPA (npm package: ai-insights-web)
 ├── docker-compose.yml
