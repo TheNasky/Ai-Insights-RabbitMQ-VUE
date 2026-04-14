@@ -28,19 +28,26 @@
 
 ### Demo video
 
+The release page is here: **[Release `Videos` (v1)](https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/tag/Videos)**.
+
+For the README player, GitHub needs the **direct asset URL** (not the `/releases/tag/...` page). Yours is:
+
+`https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4`
+
 <p align="center">
-  <a href="Video%20Showcase.mp4"><strong>Watch: Video Showcase.mp4</strong></a><br />
-  <sub>Open or download from the repository root (same folder as this README).</sub>
+  <a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4"><strong>Download / open walkthrough (MP4)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/tag/Videos"><strong>Release page</strong></a>
 </p>
 
 <p align="center">
-  <video src="Video%20Showcase.mp4" controls width="920" poster="Showcase.png">
-    Video not supported in this view — use the link above.
+  <video src="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4" controls width="920" poster="Showcase.png">
+    Your browser does not support the video tag — use the MP4 link above.
   </video>
 </p>
 
 <p align="center">
-  <sub>If the player does not load on GitHub, open the <code>.mp4</code> file on your branch or clone locally.</sub>
+  <sub>If you replace the video on that release, keep the filename or update this README so the <code>src</code> matches the new asset name.</sub>
 </p>
 
 ---
