@@ -19,23 +19,23 @@
 ## Preview
 
 <p align="center">
-  <img src="Showcase.png" alt="AI Insights Platform — dark UI with input, powered-by stack, and Run Analysis" width="920" />
-</p>
-
-<p align="center">
-  <em>Main surface: input, tech stack ribbon, and analysis action.</em>
-</p>
-
-### Demo video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c" title="AI Insights Platform — walkthrough">
-    <img src="https://img.youtube.com/vi/eQfiD-oX41c/hqdefault.jpg" alt="Watch the walkthrough on YouTube" width="720" />
+  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c" title="Open walkthrough on YouTube">
+    <img src="Showcase.png" alt="AI Insights Platform UI — click to watch the walkthrough on YouTube" width="920" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c"><strong>Watch on YouTube</strong></a>
+  <em>Click the image to open the walkthrough on YouTube.</em>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eQfiD-oX41c"><img src="https://img.shields.io/badge/Go_to-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Go to YouTube" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/download/Videos/Video.Showcase.mp4"><img src="https://img.shields.io/badge/Download-MP4_release-181717?style=for-the-badge&logo=github&logoColor=white" alt="Download MP4 from GitHub release" /></a>
+</p>
+
+<p align="center">
+  <sub><a href="https://github.com/TheNasky/Ai-Insights-RabbitMQ-VUE/releases/tag/Videos">GitHub release (Videos)</a> — same video as a direct <code>.mp4</code> asset.</sub>
 </p>
 
 ---
@@ -146,7 +146,7 @@ CORS uses `FRONTEND_ORIGIN`. Full contract: [`backend/README.md`](backend/README
 
 ```text
 Agentic/
-├── Showcase.png           # UI screenshot (see Preview); walkthrough is on YouTube (below)
+├── Showcase.png           # UI screenshot used in README (links to YouTube from the doc)
 ├── backend/               # NestJS API, LLM, queue, workers, in-memory job store
 ├── frontend/              # Vue SPA (npm package: ai-insights-web)
 ├── docker-compose.yml
