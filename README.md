@@ -172,8 +172,3 @@ Agentic/
 | `backend/` | `npm run start:dev`, `npm run build` |
 | `frontend/` | `npm run dev`, `npm run build` |
 
----
-
-## License
-
-Add your license here when you publish the repository.
